@@ -1,0 +1,27 @@
+{
+  "name": "data-scraper",
+  "version": "1.0.0",
+  "description": "Data scraper for Football API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "api",
+    "rest",
+    "scraper",
+    "json",
+    "javascript",
+    "request",
+    "promises",
+    "mongodb"
+  ],
+  "author": "Jhony Grillet",
+  "license": "MIT",
+  "dependencies": {
+    "jsonfile": "^4.0.0",
+    "mongojs": "^2.4.1",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2"
+  }
+}

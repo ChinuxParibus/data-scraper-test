@@ -1,0 +1,402 @@
+[
+	{
+		"_links": {
+			"self": {
+				"href": "http://api.football-data.org/v1/soccerseasons/444"
+			},
+			"teams": {
+				"href": "http://api.football-data.org/v1/soccerseasons/444/teams"
+			},
+			"fixtures": {
+				"href": "http://api.football-data.org/v1/soccerseasons/444/fixtures"
+			},
+			"leagueTable": {
+				"href": "http://api.football-data.org/v1/soccerseasons/444/leagueTable"
+			}
+		},
+		"_id": 444,
+		"caption": "Campeonato Brasileiro da Série A",
+		"league": "BSA",
+		"year": "2017",
+		"currentMatchday": 28,
+		"numberOfMatchdays": 38,
+		"numberOfTeams": 20,
+		"numberOfGames": 380,
+		"lastUpdated": "2017-10-15T23:10:08Z"
+	},
+	{
+		"_links": {
+			"self": {
+				"href": "http://api.football-data.org/v1/soccerseasons/445"
+			},
+			"teams": {
+				"href": "http://api.football-data.org/v1/soccerseasons/445/teams"
+			},
+			"fixtures": {
+				"href": "http://api.football-data.org/v1/soccerseasons/445/fixtures"
+			},
+			"leagueTable": {
+				"href": "http://api.football-data.org/v1/soccerseasons/445/leagueTable"
+			}
+		},
+		"_id": 445,
+		"caption": "Premier League 2017/18",
+		"league": "PL",
+		"year": "2017",
+		"currentMatchday": 8,
+		"numberOfMatchdays": 38,
+		"numberOfTeams": 20,
+		"numberOfGames": 380,
+		"lastUpdated": "2017-10-15T17:00:18Z"
+	},
+	{
+		"_links": {
+			"self": {
+				"href": "http://api.football-data.org/v1/soccerseasons/446"
+			},
+			"teams": {
+				"href": "http://api.football-data.org/v1/soccerseasons/446/teams"
+			},
+			"fixtures": {
+				"href": "http://api.football-data.org/v1/soccerseasons/446/fixtures"
+			},
+			"leagueTable": {
+				"href": "http://api.football-data.org/v1/soccerseasons/446/leagueTable"
+			}
+		},
+		"_id": 446,
+		"caption": "Championship 2017/18",
+		"league": "ELC",
+		"year": "2017",
+		"currentMatchday": 12,
+		"numberOfMatchdays": 46,
+		"numberOfTeams": 24,
+		"numberOfGames": 552,
+		"lastUpdated": "2017-10-15T14:20:12Z"
+	},
+	{
+		"_links": {
+			"self": {
+				"href": "http://api.football-data.org/v1/soccerseasons/447"
+			},
+			"teams": {
+				"href": "http://api.football-data.org/v1/soccerseasons/447/teams"
+			},
+			"fixtures": {
+				"href": "http://api.football-data.org/v1/soccerseasons/447/fixtures"
+			},
+			"leagueTable": {
+				"href": "http://api.football-data.org/v1/soccerseasons/447/leagueTable"
+			}
+		},
+		"_id": 447,
+		"caption": "League One 2017/18",
+		"league": "EL1",
+		"year": "2017",
+		"currentMatchday": 14,
+		"numberOfMatchdays": 46,
+		"numberOfTeams": 24,
+		"numberOfGames": 552,
+		"lastUpdated": "2017-10-16T07:00:04Z"
+	},
+	{
+		"_links": {
+			"self": {
+				"href": "http://api.football-data.org/v1/soccerseasons/448"
+			},
+			"teams": {
+				"href": "http://api.football-data.org/v1/soccerseasons/448/teams"
+			},
+			"fixtures": {
+				"href": "http://api.football-data.org/v1/soccerseasons/448/fixtures"
+			},
+			"leagueTable": {
+				"href": "http://api.football-data.org/v1/soccerseasons/448/leagueTable"
+			}
+		},
+		"_id": 448,
+		"caption": "League Two 2017/18",
+		"league": "EL2",
+		"year": "2017",
+		"currentMatchday": 14,
+		"numberOfMatchdays": 46,
+		"numberOfTeams": 24,
+		"numberOfGames": 552,
+		"lastUpdated": "2017-10-16T07:00:05Z"
+	},
+	{
+		"_links": {
+			"self": {
+				"href": "http://api.football-data.org/v1/soccerseasons/449"
+			},
+			"teams": {
+				"href": "http://api.football-data.org/v1/soccerseasons/449/teams"
+			},
+			"fixtures": {
+				"href": "http://api.football-data.org/v1/soccerseasons/449/fixtures"
+			},
+			"leagueTable": {
+				"href": "http://api.football-data.org/v1/soccerseasons/449/leagueTable"
+			}
+		},
+		"_id": 449,
+		"caption": "Eredivisie 2017/18",
+		"league": "DED",
+		"year": "2017",
+		"currentMatchday": 8,
+		"numberOfMatchdays": 34,
+		"numberOfTeams": 18,
+		"numberOfGames": 306,
+		"lastUpdated": "2017-10-15T16:50:15Z"
+	},
+	{
+		"_links": {
+			"self": {
+				"href": "http://api.football-data.org/v1/soccerseasons/450"
+			},
+			"teams": {
+				"href": "http://api.football-data.org/v1/soccerseasons/450/teams"
+			},
+			"fixtures": {
+				"href": "http://api.football-data.org/v1/soccerseasons/450/fixtures"
+			},
+			"leagueTable": {
+				"href": "http://api.football-data.org/v1/soccerseasons/450/leagueTable"
+			}
+		},
+		"_id": 450,
+		"caption": "Ligue 1 2017/18",
+		"league": "FL1",
+		"year": "2017",
+		"currentMatchday": 9,
+		"numberOfMatchdays": 38,
+		"numberOfTeams": 20,
+		"numberOfGames": 380,
+		"lastUpdated": "2017-10-16T12:10:07Z"
+	},
+	{
+		"_links": {
+			"self": {
+				"href": "http://api.football-data.org/v1/soccerseasons/451"
+			},
+			"teams": {
+				"href": "http://api.football-data.org/v1/soccerseasons/451/teams"
+			},
+			"fixtures": {
+				"href": "http://api.football-data.org/v1/soccerseasons/451/fixtures"
+			},
+			"leagueTable": {
+				"href": "http://api.football-data.org/v1/soccerseasons/451/leagueTable"
+			}
+		},
+		"_id": 451,
+		"caption": "Ligue 2 2017/18",
+		"league": "FL2",
+		"year": "2017",
+		"currentMatchday": 11,
+		"numberOfMatchdays": 38,
+		"numberOfTeams": 20,
+		"numberOfGames": 380,
+		"lastUpdated": "2017-10-14T15:00:42Z"
+	},
+	{
+		"_links": {
+			"self": {
+				"href": "http://api.football-data.org/v1/soccerseasons/452"
+			},
+			"teams": {
+				"href": "http://api.football-data.org/v1/soccerseasons/452/teams"
+			},
+			"fixtures": {
+				"href": "http://api.football-data.org/v1/soccerseasons/452/fixtures"
+			},
+			"leagueTable": {
+				"href": "http://api.football-data.org/v1/soccerseasons/452/leagueTable"
+			}
+		},
+		"_id": 452,
+		"caption": "1. Bundesliga 2017/18",
+		"league": "BL1",
+		"year": "2017",
+		"currentMatchday": 8,
+		"numberOfMatchdays": 34,
+		"numberOfTeams": 18,
+		"numberOfGames": 306,
+		"lastUpdated": "2017-10-16T07:40:06Z"
+	},
+	{
+		"_links": {
+			"self": {
+				"href": "http://api.football-data.org/v1/soccerseasons/453"
+			},
+			"teams": {
+				"href": "http://api.football-data.org/v1/soccerseasons/453/teams"
+			},
+			"fixtures": {
+				"href": "http://api.football-data.org/v1/soccerseasons/453/fixtures"
+			},
+			"leagueTable": {
+				"href": "http://api.football-data.org/v1/soccerseasons/453/leagueTable"
+			}
+		},
+		"_id": 453,
+		"caption": "2. Bundesliga 2017/18",
+		"league": "BL2",
+		"year": "2017",
+		"currentMatchday": 10,
+		"numberOfMatchdays": 34,
+		"numberOfTeams": 18,
+		"numberOfGames": 306,
+		"lastUpdated": "2017-10-16T07:40:10Z"
+	},
+	{
+		"_links": {
+			"self": {
+				"href": "http://api.football-data.org/v1/soccerseasons/455"
+			},
+			"teams": {
+				"href": "http://api.football-data.org/v1/soccerseasons/455/teams"
+			},
+			"fixtures": {
+				"href": "http://api.football-data.org/v1/soccerseasons/455/fixtures"
+			},
+			"leagueTable": {
+				"href": "http://api.football-data.org/v1/soccerseasons/455/leagueTable"
+			}
+		},
+		"_id": 455,
+		"caption": "Primera Division 2017",
+		"league": "PD",
+		"year": "2017",
+		"currentMatchday": 8,
+		"numberOfMatchdays": 38,
+		"numberOfTeams": 20,
+		"numberOfGames": 380,
+		"lastUpdated": "2017-10-15T20:50:12Z"
+	},
+	{
+		"_links": {
+			"self": {
+				"href": "http://api.football-data.org/v1/soccerseasons/456"
+			},
+			"teams": {
+				"href": "http://api.football-data.org/v1/soccerseasons/456/teams"
+			},
+			"fixtures": {
+				"href": "http://api.football-data.org/v1/soccerseasons/456/fixtures"
+			},
+			"leagueTable": {
+				"href": "http://api.football-data.org/v1/soccerseasons/456/leagueTable"
+			}
+		},
+		"_id": 456,
+		"caption": "Serie A 2017/18",
+		"league": "SA",
+		"year": "2017",
+		"currentMatchday": 8,
+		"numberOfMatchdays": 38,
+		"numberOfTeams": 20,
+		"numberOfGames": 380,
+		"lastUpdated": "2017-10-16T12:10:12Z"
+	},
+	{
+		"_links": {
+			"self": {
+				"href": "http://api.football-data.org/v1/soccerseasons/457"
+			},
+			"teams": {
+				"href": "http://api.football-data.org/v1/soccerseasons/457/teams"
+			},
+			"fixtures": {
+				"href": "http://api.football-data.org/v1/soccerseasons/457/fixtures"
+			},
+			"leagueTable": {
+				"href": "http://api.football-data.org/v1/soccerseasons/457/leagueTable"
+			}
+		},
+		"_id": 457,
+		"caption": "Primeira Liga 2017/18",
+		"league": "PPL",
+		"year": "2017",
+		"currentMatchday": 9,
+		"numberOfMatchdays": 34,
+		"numberOfTeams": 18,
+		"numberOfGames": 306,
+		"lastUpdated": "2017-10-04T10:00:16Z"
+	},
+	{
+		"_links": {
+			"self": {
+				"href": "http://api.football-data.org/v1/soccerseasons/458"
+			},
+			"teams": {
+				"href": "http://api.football-data.org/v1/soccerseasons/458/teams"
+			},
+			"fixtures": {
+				"href": "http://api.football-data.org/v1/soccerseasons/458/fixtures"
+			},
+			"leagueTable": {
+				"href": "http://api.football-data.org/v1/soccerseasons/458/leagueTable"
+			}
+		},
+		"_id": 458,
+		"caption": "DFB-Pokal 2017/18",
+		"league": "DFB",
+		"year": "2017",
+		"currentMatchday": 2,
+		"numberOfMatchdays": 6,
+		"numberOfTeams": 64,
+		"numberOfGames": 48,
+		"lastUpdated": "2017-08-20T19:00:14Z"
+	},
+	{
+		"_links": {
+			"self": {
+				"href": "http://api.football-data.org/v1/soccerseasons/459"
+			},
+			"teams": {
+				"href": "http://api.football-data.org/v1/soccerseasons/459/teams"
+			},
+			"fixtures": {
+				"href": "http://api.football-data.org/v1/soccerseasons/459/fixtures"
+			},
+			"leagueTable": {
+				"href": "http://api.football-data.org/v1/soccerseasons/459/leagueTable"
+			}
+		},
+		"_id": 459,
+		"caption": "Serie B 2017/18",
+		"league": "SB",
+		"year": "2017",
+		"currentMatchday": 9,
+		"numberOfMatchdays": 42,
+		"numberOfTeams": 22,
+		"numberOfGames": 462,
+		"lastUpdated": "2017-10-16T07:40:14Z"
+	},
+	{
+		"_links": {
+			"self": {
+				"href": "http://api.football-data.org/v1/soccerseasons/464"
+			},
+			"teams": {
+				"href": "http://api.football-data.org/v1/soccerseasons/464/teams"
+			},
+			"fixtures": {
+				"href": "http://api.football-data.org/v1/soccerseasons/464/fixtures"
+			},
+			"leagueTable": {
+				"href": "http://api.football-data.org/v1/soccerseasons/464/leagueTable"
+			}
+		},
+		"_id": 464,
+		"caption": "Champions League 2017/18",
+		"league": "CL",
+		"year": "2017",
+		"currentMatchday": 3,
+		"numberOfMatchdays": 10,
+		"numberOfTeams": 32,
+		"numberOfGames": 97,
+		"lastUpdated": "2017-10-16T12:09:51Z"
+	}
+]
